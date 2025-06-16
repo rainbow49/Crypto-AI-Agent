@@ -122,11 +122,6 @@ Vvaifufun-Solana-AI-Agent-Fork/
 ```
 
 
-## Support
-Github: https://github.com/keidev123
-
-Twitter: https://x.com/devcutup
-
-Whatspp: https://wa.me/13137423660
-
-Telegram: https://t.me/DevCutup
+### 👤 Author
+#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
+#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)  
