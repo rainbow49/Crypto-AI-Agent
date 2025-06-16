@@ -1,7 +1,7 @@
 # Crypto AI Agent 
 Crypto AI agent is designed to combine crypto(solana, evm-ethereum, bitcoin) and AI agents(Twitter AI agent, Discord AI agent, Telegram AI agent and crypto on-chain interaction AI agent), providing users with comprehensive toolkits for onchain market analysis, trading insights, decision-making supports and social platform chatbots that can offer professional advice for users.
 An innovative project that seamlessly integrates AI and cryptocurrencies, designed to evolve continuously alongside advancements in both fields.
-Feel free to reach out of me when you face difficulty or want collaboration[Whatsapp: https://wa.me/13137423660, Telgram: https://t.me/DevCutup]
+Feel free to reach out of me when you face difficulty or want collaboration.
 
 
 ## Features
@@ -123,7 +123,7 @@ Vvaifufun-Solana-AI-Agent-Fork/
 
 
 ## Support
-Github: https://github.com/cutupdev
+Github: https://github.com/keidev123
 
 Twitter: https://x.com/devcutup
 
