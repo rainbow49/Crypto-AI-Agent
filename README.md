@@ -121,7 +121,3 @@ Vvaifufun-Solana-AI-Agent-Fork/
 │   ├──                 # Recent updated X posts fetching, offering relevant data for specific topics, especially about crypto
 ```
 
-
-### 👤 Author
-#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
-#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)  
