@@ -3,6 +3,7 @@ Crypto AI agent is designed to combine crypto(solana, evm-ethereum, bitcoin) and
 An innovative project that seamlessly integrates AI and cryptocurrencies, designed to evolve continuously alongside advancements in both fields.
 Feel free to reach out of me when you face difficulty or want collaboration.
 
+
 ## Features
 #### Real-time on-chain data, social data fetching 
 - Continuously gathers real-time trading data, liquidity metrics, and token information from blockchain.
